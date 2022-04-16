@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/surajitsarkar19/react-native-radial-gradient.git"
+    "url": "https://dev.azure.com/ostrichapp/ostrich-v2/_git/react-native-radial-gradient.git"
   },
   "devDependencies": {
     "babel-preset-react-native": "^4.0.0",
